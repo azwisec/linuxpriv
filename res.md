@@ -23,6 +23,7 @@ LD_Preload https://www.hackingarticles.in/linux-privilege-escalation-using-ld_pr
 Spawn Shell https://netsec.ws/?p=337
 
 Tools
+
 LinPEAS
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
